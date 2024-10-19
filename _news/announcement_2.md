@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I participated in "Logic Summer School 2024"
+title: I participated in "Logic Summer School 2024", Sendai (Japan).
 date: 2024-09-20
 inline: false
 related_posts: false

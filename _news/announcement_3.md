@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I talked about the Krull dimension at "数学基礎論若手の会 2024" Fukushima, Japan.
+title: I talked about the Krull dimension at "数学基礎論若手の会 2024", Fukushima (Japan).
 date: 2024-10-13
 inline: false
 related_posts: false

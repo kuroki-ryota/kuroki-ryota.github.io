@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I talked about commutativity theorems at "第2回 若手による数理論理学研究集会" Kanagawa, Japan.
+title: I talked about commutativity theorems at "第2回 若手による数理論理学研究集会", Kanagawa (Japan).
 date: 2024-08-09
 inline: false
 related_posts: false
