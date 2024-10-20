@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yotsunva.github.io/sitemap.xml
+Sitemap: https://kuroki-ryota.github.io/sitemap.xml
