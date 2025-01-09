@@ -20,9 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 Graduate student at the University of Tokyo.
 
-Name in native script: 黒木 亮汰
+Name in Japanese: 黒木 亮汰
 
 Interests: constructive algebra
+
+E-mail: kuroki-ryota128 [at] g.ecc.u-tokyo.ac.jp
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
