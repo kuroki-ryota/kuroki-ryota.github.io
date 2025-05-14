@@ -12,13 +12,24 @@
   type: time_table
   contents:
     - title: M.Sc., Mathematics
-      institution: The University of Tokyo, Japan
+      institution: The University of Tokyo
       year: 2024.04 -
       description:
         - 'Supervisor: Ryu Hasegawa'
     - title: B.Sc., Mathematics
-      institution: The University of Tokyo, Japan
+      institution: The University of Tokyo
       year: 2020.04 - 2024.03
       description:
         - 'Supervisor: Ryu Hasegawa'
 
+- title: Work History
+  type: time_table
+  contents:
+    - title: Teaching assistant of "Exercise in Basics of Mathematical Sciences (linear algebra)"
+      institution: The University of Tokyo
+      year: 2025.04 - 2025.07
+      description:
+        - Professor Mitsuru Yamazaki's Class
+    - title: Research assistant for the Forefront Physics and Mathematics Program to Drive Transformation (FoPM) 
+      institution: The University of Tokyo
+      year: 2024.04 -
