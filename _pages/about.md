@@ -18,10 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
 
-Graduate student
-Graduate School of Mathematical Sciences, The University of Tokyo,
-3-8-1 Komaba, Meguro-ku,
-Tokyo, 153-8914, Japan
+Graduate student  
+Graduate School of Mathematical Sciences, The University of Tokyo,  
+3-8-1 Komaba, Meguro-ku, Tokyo, 153-8914, Japan
 
 Name in Japanese: 黒木 亮汰
 
