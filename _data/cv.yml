@@ -25,13 +25,18 @@
 - title: Work History
   type: time_table
   contents:
-    - title: Teaching assistant of "Exercise in Basics of Mathematical Sciences (linear algebra)"
+    - title: Teaching assistant of "Exercise in Linear Algebra"
+      institution: The University of Tokyo
+      year: 2025-10 - 2025-01?
+      description:
+        - Mitsuru Yamazaki's Class
+    - title: Teaching assistant of "Exercise in Basics of Mathematical Sciences (Linear Algebra)"
       institution: The University of Tokyo
       year: 2025-04 - 2025-07
       description:
         - Mitsuru Yamazaki's Class
     - title: Research assistant for the Forefront Physics and Mathematics Program to Drive Transformation (FoPM) 
       institution: The University of Tokyo
-      year: 2024-04 - 2029-03?
+      year: 2024-10 - 2029-03?
       description:
         - 'Secondary Supervisor: Takeshi Saito'
