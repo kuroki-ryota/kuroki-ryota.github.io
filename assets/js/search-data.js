@@ -70,7 +70,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-participated-in-autumn-school-proof-and-computation-herrsching-germany-14-20-september-2025",
           title: 'I participated in Autumn school “Proof and Computation”, Herrsching (Germany), 14-20 September 2025....',
           description: "",
-          section: "News",},{id: "news-i-will-talk-about-a-quantitative-hilbert-s-basis-theorem-and-the-constructive-krull-dimension-at-数学基礎論若手の会-2025-maebashi-japan-16-18-october-2025-slides-same-as-those-used-at-cirm-3377",
+          section: "News",},{id: "news-i-will-talk-about-a-quantitative-hilbert-s-basis-theorem-and-the-constructive-krull-dimension-at-数学基礎論若手の会-2025-maebashi-japan-16-18-october-2025-slides-short-version-of-the-slides-used-at-cirm-3377",
           title: 'I will talk about a quantitative Hilbert’s basis theorem and the constructive Krull...',
           description: "",
           section: "News",},{id: "news-i-will-attend-dagstuhl-seminar-26121-proof-systems-in-actual-practice-reasoning-and-computation-wadern-germany-15-20-march-2026",
