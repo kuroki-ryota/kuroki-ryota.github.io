@@ -21,9 +21,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
 
-Name in Japanese: 黒木 亮汰
+Name in Japanese: 黒木 亮汰（くろき りょうた）[kɯ̟ɾo̞kʲi ɾʲo̞ːta̠]
 
-Interests: constructive algebra
+Interests: constructive algebra, (strongly predicative algebra, proof mining)
 
 Email: kuroki-ryota128 [at] g.ecc.u-tokyo.ac.jp
 
