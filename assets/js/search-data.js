@@ -79,6 +79,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-attend-dagstuhl-seminar-26121-proof-systems-in-actual-practice-reasoning-and-computation-wadern-germany-15-20-march-2026",
           title: 'I will attend Dagstuhl Seminar 26121: Proof Systems in Actual Practice: Reasoning and...',
           description: "",
+          section: "News",},{id: "news-i-will-attend-7th-workshop-on-formal-topology-venice-italy-13-17-april-2026",
+          title: 'I will attend 7th Workshop on Formal Topology, Venice (Italy), 13-17 April 2026....',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
