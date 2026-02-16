@@ -91,6 +91,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-attend-7th-workshop-on-formal-topology-venice-italy-13-17-april-2026",
           title: 'I will attend 7th Workshop on Formal Topology, Venice (Italy), 13-17 April 2026....',
           description: "",
+          section: "News",},{id: "news-i-will-attend-ccc-2026-continuity-computability-constructivity-from-logic-to-algorithms-kyoto-japan-27-30-may-2026",
+          title: 'I will attend CCC 2026: Continuity, Computability, Constructivity – From Logic to Algorithms,...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
