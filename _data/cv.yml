@@ -6,14 +6,19 @@
     - name: Born
       value: November 2001
     - name: Languages
-      value: Japanese, English, (French, German, Italian)
+      value: Japanese, English, (learning French, Italian, German)
 
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D., Mathematics
+      institution: The University of Tokyo
+      year: 2026-04 - 2029-03?
+      description:
+        - 'Supervisor: Ryu Hasegawa'
     - title: M.Sc., Mathematics
       institution: The University of Tokyo
-      year: 2024-04 - 2026-03?
+      year: 2024-04 - 2026-03
       description:
         - 'Supervisor: Ryu Hasegawa'
     - title: B.Sc., Mathematics
@@ -27,10 +32,10 @@
   contents:
     - title: JSPS Research Fellowship for Young Scientists (DC1)
       institution: The University of Tokyo
-      year: 2026-04? - 2029-03?
+      year: 2026-04 - 2029-03?
     - title: Teaching assistant of "Exercise in Linear Algebra"
       institution: The University of Tokyo
-      year: 2025-10 - 2025-01?
+      year: 2025-10 - 2025-01
       description:
         - Mitsuru Yamazaki's Class
     - title: Teaching assistant of "Exercise in Basics of Mathematical Sciences (Linear Algebra)"
@@ -40,6 +45,6 @@
         - Mitsuru Yamazaki's Class
     - title: Research assistant for the Forefront Physics and Mathematics Program to Drive Transformation (FoPM) 
       institution: The University of Tokyo
-      year: 2024-10 - 2026-03?
+      year: 2024-10 - 2026-03
       description:
         - 'Secondary Supervisor: Takeshi Saito'
