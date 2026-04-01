@@ -103,6 +103,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-attend-第37回可換環論セミナー-seminar-on-commutative-ring-theory-chiba-japan-2-5-june-2026",
           title: 'I will attend 第37回可換環論セミナー (Seminar on Commutative Ring Theory), Chiba (Japan), 2-5 June...',
           description: "",
+          section: "News",},{id: "news-i-will-attend-online-symposium-on-advances-in-mathematical-logic-saml-2026-kyoto-japan-23-26-june-2026",
+          title: 'I will attend (online) Symposium on Advances in Mathematical Logic (SAML) 2026, Kyoto...',
+          description: "",
+          section: "News",},{id: "news-i-will-participate-in-autumn-school-proof-and-computation-2026-fischbachau-germany-13-19-september-2026",
+          title: 'I will participate in Autumn school “Proof and Computation” 2026, Fischbachau (Germany), 13-19...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
