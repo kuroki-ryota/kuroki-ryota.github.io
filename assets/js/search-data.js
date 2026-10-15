@@ -121,6 +121,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-symbolic-logic-and-computer-science-slacs-2026-ginza-japan-05-08-october-2026",
           title: 'I attended Symbolic Logic and Computer Science (SLACS) 2026, Ginza (Japan), 05-08 October...',
           description: "",
+          section: "News",},{id: "news-i-will-talk-about-inductive-definitions-of-noetherian-rings-at-数学基礎論若手の会2026-sendai-japan-16-18-october-2026-slides",
+          title: 'I will talk about inductive definitions of Noetherian rings at 数学基礎論若手の会2026, Sendai (Japan),...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
