@@ -133,6 +133,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-categories-in-tokyo-第3回集会-ginza-japan-02-04-november-2026",
           title: 'I attended Categories in Tokyo 第3回集会, Ginza (Japan), 02-04 November 2026.',
           description: "",
+          section: "News",},{id: "news-i-attended-trends-in-logic-xxvi-sendai-japan-23-27-november-2026",
+          title: 'I attended Trends in Logic XXVI, Sendai (Japan), 23-27 November 2026.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
